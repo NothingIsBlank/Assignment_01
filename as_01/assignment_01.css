@@ -1,0 +1,573 @@
+html{
+	height: 1301px;
+	width: 1301px;
+	overflow-x: hidden;
+	overflow-y: visible;
+	padding-bottom: 40px;
+
+}
+#google{
+    top: 10px;
+    position: absolute;
+    height: 50px;
+}
+
+a {
+    color: #424548;
+}
+
+header ul{
+	position: relative;
+	display: block;
+	padding-right: 85px;
+	position: relative;
+	list-style: none;
+	float: right;
+	margin-top: 10px;
+	border: 0;
+	transition: padding .3s;
+}
+header nav{
+	position: relative;
+	list-style: none;
+	float: right;
+	margin-top: 10px;
+	border: 0;
+	transition: padding .3s;
+}
+
+
+header li{
+	position: relative;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+#mountain1{
+	width: 1301px;
+}
+div#mid{
+	position: relative;
+	background-color: #D3D3D3;
+	height: 522px;
+
+}
+h1#midmid{
+	position: relative;
+	left: 200px;
+	top: 150px;
+}
+
+hr{
+	position: relative;
+	top:160px;
+	left: 250px;
+	width: 70px;
+	height: 2px;
+	background-color: #FFFF00;
+}
+
+#istText{
+	position: absolute;
+
+
+}
+.text{
+	position: absolute;
+	column-width: 700px;
+	left: 500px;
+	top: 150px;
+	
+}
+.progress{
+	width: 200px;
+	height: 3px;
+}
+.progress-bar{
+	background-color: #2F4F4F;
+}
+#bEx{
+	position: relative;
+	top: 200px;
+	left: 100px;
+}
+#ndText{
+	position: absolute;
+	top: 1280px;
+
+}
+div#three{
+	position: relative;
+	top:700px;
+}
+div#bo{
+	position: absolute;
+	display: inline-flex;
+	top: 1300px;
+	left: 20px;
+	height: 200px;
+	width: 1200px;
+}
+
+#gicon{
+	position: relative;
+	height: 20px;
+	width: 25px;
+	right: 40px;
+	top: 29px;
+}
+#gd{
+	position: relative;
+	
+}
+
+#ist{
+	position: relative;
+	display: inline;
+	left: 150px;
+	padding-right: 80px;
+}
+
+#ft{
+	position: relative;
+}
+div.gtext{
+	position: relative;
+	width: 700px;
+	top: 300px;
+}
+#batman{
+	width: 500px;
+}
+p.expertText{
+    position: relative;
+    top: 120px;
+
+}
+div.batmanOne{
+	position: absolute;
+	top: 600px;
+}
+h1#magic{
+	position: absolute;
+	left: 800px;
+	top: 30px;
+
+}
+hr#magicOne{
+	top: -400px;
+	left: 900px;
+}
+p#magicPara{
+	position: absolute;
+	top: 200px;
+	column-width: 350px;
+	left: 800px;
+}
+h1#portfolio{
+	position: relative;
+    top: 660px;
+    left: 100px;
+}
+hr.portfolio{
+    top: 680px;
+    left: 150px;
+}
+div#portfolio-nav{
+	position: relative;
+	top: 580px;
+}
+div.blankgreyfirst{
+	position: absolute;
+	background-color: #D3D3D3;
+	height: 250px;
+	width: 300px;
+	top: 2700px;
+	left: 20px;
+}
+div.blankgreysec{
+	position: absolute;
+	background-color: #D3D3D3;
+	height: 250px;
+	width: 300px;
+	top: 2700px;
+	left: 330px;
+}
+div.blankgreythird{
+	position: absolute;
+	background-color: #D3D3D3;
+	height: 250px;
+	width: 300px;
+	top: 2700px;
+	left: 640px;
+}
+div.blankgreyfourth{
+	position: absolute;
+	background-color: #D3D3D3;
+	height: 250px;
+	width: 280px;
+	top: 2700px;
+	left: 950px;
+}
+div.blankgreyfifth{
+	position: absolute;
+	background-color: #D3D3D3;
+	height: 250px;
+	width: 300px;
+	top: 2960px;
+	left: 20px;
+}
+div.blankgreysixth{
+	position: absolute;
+	background-color: #D3D3D3;
+	height: 250px;
+	width: 300px;
+	top: 2960px;
+	left: 330px;
+}
+div.blankgreyseven{
+	position: absolute;
+	background-color: #D3D3D3;
+	height: 250px;
+	width: 300px;
+	top: 2960px;
+	left: 640px;
+}
+div.blankgreyeight{
+	position: absolute;
+	background-color: #D3D3D3;
+	height: 250px;
+	width: 280px;
+	top: 2960px;
+	left: 950px;
+}
+
+
+.bottom{
+	position: relative;
+	height: 80px;
+	width: 100%;
+	background-color: #D3D3D3;
+	top: 1320px;
+}
+
+.bottom p{
+	position: relative;
+	left: 500px;
+	top: 30px;
+	color: grey;
+}
+
+.barrey{
+	position: relative;
+	top: 1450px;
+	width: 48%;
+	height: 200px;
+	left: 295px;
+	text-align: center;
+}
+
+.barrey h5{
+	padding-top: 30px;
+	color: #aaaaaa;
+}
+
+.superhero{
+position: relative;
+top: 1450px;
+height: 1100px;
+width: 100%;
+}
+
+.superhero #hero{
+	width: 100%;
+	height: 250px;
+}
+
+.num{
+	position: relative;
+	display: inline-flex;
+	top: 160px;
+	left: 150px;
+}
+
+.num p{
+	position: relative;
+	right: 10px;
+	top: 5px;
+	color: skyblue;
+	font-size: 15px;
+}
+
+.num h2{
+	padding-right: 200px;
+
+}
+
+.superhero #mount{
+	position: relative;
+	width: 100%;
+	top: 280px;
+}
+
+#team{
+	position: relative;
+	top: 1100px;
+	height: 1200px;
+}
+
+#team h1{
+	position: relative;
+	left: 200px;
+	top: 650px;
+}
+
+#team hr{
+	position: relative;
+	left: 200px;
+	top:660px;
+	width: 70px;
+	height: 2px;
+	background-color: #FFFF00;
+}
+
+.team_members{
+	display: inline-flex;
+	position: relative;
+	top: 780px;
+	left: -200px;
+	padding-right: 80px;
+}
+
+.pic1{
+	width: 200px;
+	height: 120px;
+	background-color: #D3D3D3;
+}
+
+
+.mem1 h4{
+	font-size: 15px;
+	color: #D3D3D3;
+	position: relative;
+	top: 250px;
+	left: 60px;
+}
+
+
+.mem1 h5{
+	font-size: 15px;
+	color: #AAAAAA;
+	position: relative;
+	top: 250px;
+	left: 80px;
+}
+
+
+#plan{
+	position: relative;
+	background-color: #D3D3D3;
+	width: 100%;
+	top: 1200px;
+	height: 800px;	
+}
+
+
+#plan h1{
+	position: relative;
+	left: 200px;
+	top: 150px;
+}
+
+#plan hr{
+	position: relative;
+	top:160px;
+	width: 70px;
+	height: 2px;
+	background-color: #FFFF00;
+}
+
+.wrap{
+	display: inline-flex;
+	position: relative;
+	top: 225px;
+	left: 215px;
+}
+
+.list_items{
+	width: 230px;
+	height: 350px;
+	position: relative;
+	background-color: whitesmoke;
+	margin-right: 80px;
+}
+
+
+.level h5{
+	font-size: 15px;
+	position: relative;
+	left: 10px;
+	top: 10px;
+	font-weight: normal;
+}
+
+.cost{
+	display: inline-flex;
+	padding-top: 15px;
+}
+
+.cost h2{
+	position: relative;
+	font-size: 55px;
+	left: 70px;
+}
+
+.cost h5{
+	position: relative;
+	top: 34px;
+	left: 70px;
+}
+
+.cost p{
+	color: #AAAAAA;
+	position: relative;
+	top: 35px;
+	left: 68px;
+}
+
+.ldesign h5{
+	color: #AAAAAA;
+	position: relative;
+	left: 60px;
+	font-size: 16px;
+}
+
+.ldesign{
+	padding-top: 40px;
+}
+
+.cplan h4{
+	position: relative;
+	font-size: 19px;
+	top: 20px;
+	left: 50px;
+}
+#tempimg{
+	height: 337px;
+	width: 250px;
+}
+#touch{
+	position: relative;
+	width: 100%;
+	top: 1200px;
+	height: 800px;	
+}
+
+
+#touch h1{
+	position: relative;
+	left: 150px;
+	top: 50px;
+}
+
+#touch hr{
+	position: relative;
+	top:60px;
+	width: 70px;
+	height: 2px;
+	background-color: #FFFF00;
+}
+#map{
+	position: relative;
+	left: 600px;
+	top: 400px;
+	height: 500px;
+}
+#mapform{
+	position: relative;
+	top: 50px;
+	left: 100px;
+}
+.form-control{
+	width: 450px;
+	border: 3px solid #010911;
+	border-top-style: none !important;
+	border-right-style: none !important;
+	border-left-style: none !important;
+}
+#sbutton{
+	position: relative;
+	left: 100px;
+	width: 200px;
+}
+div#footer{
+	position: relative;
+	top:100px;
+	height: 680px;
+	background-color: rgb(83, 76, 76);
+}
+#g2{
+	position: relative;
+	top:80px;
+	left:550px;
+}
+#footer hr{
+	width: 200px;
+	top: 100px;
+	left: 520px;
+}
+#footer a{
+	color: rgb(155, 146, 146);
+	top: 200px;
+	position: relative;
+}
+#home{
+	left: 300px;
+}
+#we{
+	left: 350px;
+	
+}
+#port{
+	left: 400px;
+	
+}
+#team{
+	left: 450px;
+	
+}
+#pplan{
+	left: 500px;
+	
+}
+#contactus{
+	left: 550px;
+	
+}
+#address{
+	position: relative;
+	color: rgb(225, 219, 219);
+	top: 250px;
+	left: 553px;
+}
+#number{
+	position: relative;
+	color: rgb(225, 219, 219);
+	top: 270px;
+	left: 603px;
+}
+#email{
+	position: relative;
+	color: rgb(225, 219, 219);
+	top: 300px;
+	left: 603px;
+}
+#last{
+	height: 200px;
+	background-color: rgb(45, 41, 41);
+}
+#last p{
+	position: relative;
+	color: rgb(255, 243, 243);
+	top: 140px;
+	left: 620px;
+}
